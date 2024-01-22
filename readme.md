@@ -1,6 +1,6 @@
-##  Desafio DIO, desenvolvendo conceitos de lógica de programação, envolvendo classes e objetos
+#  Desafio DIO, desenvolvendo conceitos de lógica de programação, envolvendo classes e objetos
 
-# Utilizando a linguagem Javascript, foi criada uma classe generica que representa um herói de uma aventura e que possui as seguintes propriedades:
+## Utilizando a linguagem Javascript, foi criada uma classe generica que representa um herói de uma aventura e que possui as seguintes propriedades:
 
  - nome
  - idade
